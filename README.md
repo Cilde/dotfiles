@@ -1,3 +1,11 @@
+Please install:
+i3
+polybar
+dunst
+rofi
+kitty
+compfy
+
 **MOVE TO HERE**
 
 compfy.conf - ~/.config/compfy <br>
