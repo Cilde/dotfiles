@@ -1,10 +1,10 @@
-Please install:
-i3
-polybar
-dunst
-rofi
-kitty
-compfy
+Please install: <br>
+i3<br>
+polybar<br>
+dunst<br>
+rofi<br>
+kitty<br>
+compfy<br>
 
 **MOVE TO HERE**
 
