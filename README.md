@@ -1,6 +1,6 @@
-compfy.conf - ~/.config/compfy
-config - ~/.config/i3
-config.ini - ~/.config/polybar
-config.rasi - ~/.config/rofi
-dunstrc - ~/.config/dunst
+compfy.conf - ~/.config/compfy <br>
+config - ~/.config/i3 <br>
+config.ini - ~/.config/polybar <br>
+config.rasi - ~/.config/rofi <br>
+dunstrc - ~/.config/dunst <br>
 kitty.conf - ~/.config/kitty
