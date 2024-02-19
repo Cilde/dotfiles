@@ -1,4 +1,5 @@
-**Please install first** <br>
+**PLEASE INSTALL FIRST**
+<br>
 i3<br>
 polybar<br>
 dunst<br>
